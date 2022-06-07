@@ -1,0 +1,17 @@
+# Logs
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# vuepress output
+.vuepress/dist
+.temp
+.cache
+/.history
+
+# Hide private file information
+secret.js
+
+# The branch file
+gh-pages

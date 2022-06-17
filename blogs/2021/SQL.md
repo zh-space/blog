@@ -5,7 +5,6 @@ categories:
  - sql
 tags:
  - sql
-sticky: 2
 ---
 ## 层次化查询
 在oracle中遇到了Start With查询语句,经过查询资料了解现在总结一下.

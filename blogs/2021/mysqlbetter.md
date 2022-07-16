@@ -6,7 +6,6 @@ categories:
 tags:
  - sql
  - sql调优
-sticky: 2
 ---
 ## 在家玩太久了，不能当一条咸鱼了，开始浅学一下Mysql调优。
 索引是帮助MySQL高效获取数据的排好序的数据结构。
